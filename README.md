@@ -6,5 +6,6 @@
 
 ### Platform
 ![logo](https://badgen.net/badge/platform/ios,windows,Linux?list=1)
-# Travis
+
+# Travis [![HitCount](http://hits.dwyl.io/nekcorp/test.svg)](http://hits.dwyl.io/nekcorp/test)
 Depot Git pour tester l'intégration continu avec Travis !
